@@ -3,4 +3,4 @@ layout: page
 title: CV
 ---
 
-/cv/
+/sheaduarte_cv.pdf/
